@@ -6,7 +6,7 @@ Sitemaps offer visitors a great overview of a site's content, and WordPress allo
 
 Joost de Vaulk shows you how to make one version of a sitemap (http://yoast.com/html-sitemap-wordpress/). However, it doesn't include an option for custom post types, which have become more popular since WordPress 3.0 came out.
 
-Here's how to make that happen, building on Joost�s example.
+Here's how to make that happen, building on Joost's example.
 The Code
 
 You'll want to start out with Joost's code because it works perfectly, and will give you just what you need for your posts and pages.
