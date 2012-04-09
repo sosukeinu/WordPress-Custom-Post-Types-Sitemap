@@ -35,4 +35,4 @@ That does it. Now, whenever you add posts to your post type and taxonomy, it get
 
 Nice!
 
-You can see an example on my own sitemap. Huge thanks to Joost for a great code snippet! And thanks to Joeleen Kennedy (http://joeleenk.net) for helping me figure this one out.
+You can see an example on my own sitemap. Huge thanks to Joost for a great code snippet! And thanks to Joeleen Kennedy (http://joeleen.net) for helping me figure this one out.
